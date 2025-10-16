@@ -1,0 +1,15 @@
+{
+    "name": "light",
+    "description": "Light mode with black text on white background",
+    "colors": {
+        "foreground": "black",
+        "background": "white"
+    },
+    "prompt": "[$P]$G",
+    "title": "Command Prompt",
+    "aliases": {
+        "ll": "dir /Q",
+        "grep": "findstr",
+        "clean": "cls && echo Ready!"
+    }
+}

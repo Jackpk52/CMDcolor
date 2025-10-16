@@ -1,0 +1,16 @@
+{
+    "name": "hacker",
+    "description": "Green on black with hacker-style prompt",
+    "colors": {
+        "foreground": "green",
+        "background": "black"
+    },
+    "prompt": "[$T] $P$G",
+    "title": "H4CK3R M0D3",
+    "aliases": {
+        "scan": "dir /S",
+        "trace": "tracert",
+        "pingall": "ping 8.8.8.8",
+        "cls": "cls && echo System secured."
+    }
+}

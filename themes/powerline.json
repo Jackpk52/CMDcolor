@@ -1,0 +1,16 @@
+{
+    "name": "powerline",
+    "description": "Powerline-style prompt with symbols",
+    "colors": {
+        "foreground": "white",
+        "background": "blue"
+    },
+    "prompt": "$E[37;44m$P$E[0m$E[34;47m$E[0xE0$E[0m$G",
+    "title": "PowerLine CMD",
+    "aliases": {
+        "ll": "dir /Q",
+        "..": "cd ..",
+        "...": "cd ..\\..",
+        "home": "cd %USERPROFILE%"
+    }
+}

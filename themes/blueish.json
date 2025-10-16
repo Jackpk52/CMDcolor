@@ -1,0 +1,15 @@
+{
+    "name": "blueish",
+    "description": "Blue background with cyan text",
+    "colors": {
+        "foreground": "cyan",
+        "background": "blue"
+    },
+    "prompt": "$P$G",
+    "title": "Blue CMD",
+    "aliases": {
+        "ll": "dir /Q",
+        "size": "dir /S | find \"File(s)\"",
+        "cls": "cls && echo Blue mode activated!"
+    }
+}

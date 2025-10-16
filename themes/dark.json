@@ -1,0 +1,15 @@
+{
+    "name": "dark",
+    "description": "Classic black background with white text",
+    "colors": {
+        "foreground": "white",
+        "background": "black"
+    },
+    "prompt": "$P$G",
+    "title": "CMD - $USERNAME",
+    "aliases": {
+        "ll": "dir /Q",
+        "la": "dir /A",
+        "cls": "cls && echo Welcome back, $USERNAME!"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "solarized",
+    "description": "Solarized dark theme colors",
+    "colors": {
+        "foreground": "yellow",
+        "background": "blue"
+    },
+    "prompt": "┌──[$P]\n└─$G",
+    "title": "Solarized CMD",
+    "aliases": {
+        "ll": "dir /Q",
+        "find": "findstr /S",
+        "count": "dir | find \"File(s)\""
+    }
+}
