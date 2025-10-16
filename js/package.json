@@ -1,0 +1,19 @@
+{
+  "name": "cmdchameleon-ui",
+  "version": "1.0.0",
+  "description": "Interactive UI for CMDChameleon",
+  "main": "interactive.js",
+  "scripts": {
+    "start": "node interactive.js",
+    "wizard": "node interactive.js --wizard",
+    "theme": "node interactive.js --theme",
+    "build": "echo 'JS components ready'"
+  },
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^4.1.2",
+    "figlet": "^1.6.0",
+    "fs-extra": "^11.1.1",
+    "inquirer": "^8.2.6"
+  }
+}
